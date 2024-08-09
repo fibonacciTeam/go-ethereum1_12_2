@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/fibonacciTeam/go-ethereum1_12_2
 
 go 1.19
 
